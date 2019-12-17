@@ -1,0 +1,1217 @@
+﻿Log file open, 05/19/19 00:59:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CrossyRoad_TestEnv
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203348
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Program Files (x86)/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.19-07.59.12:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.19-07.59.12:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:043][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-07.59.12:048][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-07.59.12:049][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-07.59.12:060][  0]LogHAL: Display: Platform has ~ 8 GB [8504446976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.19-07.59.12:060][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-07.59.12:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.19-07.59.12:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.19-07.59.12:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.19-07.59.12:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Scalability.ini]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.19-07.59.12:061][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.19-07.59.12:064][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.19-07.59.12:064][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.19-07.59.12:064][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Config/Windows/Engine.ini]
+[2019.05.19-07.59.12:064][  0]LogInit: Computer: DESKTOP-K05MOO4
+[2019.05.19-07.59.12:064][  0]LogInit: User: Gabriel
+[2019.05.19-07.59.12:064][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.19-07.59.12:064][  0]LogInit: High frequency timer resolution =3.421876 MHz
+[2019.05.19-07.59.12:065][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.19-07.59.12:065][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-07.59.12:065][  0]LogMemory: Process Physical Memory: 96.01 MB used, 96.01 MB peak
+[2019.05.19-07.59.12:065][  0]LogMemory: Process Virtual Memory: 83.70 MB used, 83.70 MB peak
+[2019.05.19-07.59.12:065][  0]LogMemory: Physical Memory: 3519.73 MB used,  4590.74 MB free, 8110.47 MB total
+[2019.05.19-07.59.12:065][  0]LogMemory: Virtual Memory: 4635.32 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.05.19-07.59.12:175][  0]LogInit: Using OS detected language (en-US).
+[2019.05.19-07.59.12:175][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.19-07.59.12:176][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.19-07.59.12:397][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-07.59.12:439][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-07.59.12:439][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-07.59.14:168][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-07.59.14:168][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-07.59.14:213][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.19-07.59.14:213][  0]LogD3D11RHI:       8088/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.19-07.59.14:215][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-07.59.14:215][  0]LogD3D11RHI:       0/0/4055 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-07.59.14:215][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-07.59.14:219][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-07.59.14:219][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-07.59.14:219][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-07.59.14:220][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.05.19-07.59.14:220][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.05.19-07.59.14:220][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-07.59.14:220][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-07.59.14:220][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.19-07.59.14:220][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.19-07.59.14:220][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.05.19-07.59.14:220][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.05.19-07.59.14:220][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.05.19-07.59.14:246][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-07.59.14:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-07.59.14:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-07.59.14:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.19-07.59.14:330][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.19-07.59.14:920][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.19-07.59.14:937][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.19-07.59.14:954][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.19-07.59.14:971][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.19-07.59.15:005][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.19-07.59.15:023][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.19-07.59.15:041][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.19-07.59.15:068][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.19-07.59.15:080][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.19-07.59.15:170][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.19-07.59.15:179][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.19-07.59.15:247][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.19-07.59.15:247][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.19-07.59.15:271][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.19-07.59.15:271][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.19-07.59.15:288][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.19-07.59.15:305][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.19-07.59.15:338][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.19-07.59.15:361][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.19-07.59.15:423][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.19-07.59.15:423][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.19-07.59.15:423][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-07.59.15:479][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.19-07.59.15:745][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Unreal Engine/CrossyRoad_TestEnv4.5/Intermediate/Shaders/WorkingDirectory/1916/).
+[2019.05.19-07.59.15:745][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gabriel/AppData/Local/Temp/UnrealShaderWorkingDir/D72358504AF75CC73EDA128CB6862819/'.
+[2019.05.19-07.59.15:746][  0]LogXGEController: Cleaning working directory: C:/Users/Gabriel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.19-07.59.15:746][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-07.59.15:746][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-07.59.15:746][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-07.59.17:638][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: Loaded boot cache 0.62s 71MB C:/Users/Gabriel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gabriel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Engine/CrossyRoad_TestEnv4.5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Engine/CrossyRoad_TestEnv4.5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-07.59.18:262][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-07.59.18:294][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-07.59.18:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-07.59.18:294][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.19-07.59.18:306][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gabriel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-07.59.18:306][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-07.59.18:306][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-07.59.18:323][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-07.59.18:324][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-07.59.18:348][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-07.59.18:551][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2019.05.19-07.59.18:817][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-07.59.19:171][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-07.59.19:171][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.19-07.59.19:171][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-07.59.19:172][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.19-07.59.19:172][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.19-07.59.19:221][  0]LogNetVersion: CrossyRoad_TestEnv 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3258345339)
+[2019.05.19-07.59.20:106][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031603 seconds
+[2019.05.19-07.59.20:114][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.19-07.59.20:114][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.19-07.59.20:114][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-07.59.22:841][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-07.59.22:863][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-07.59.23:152][  0]SourceControl: Source control is disabled
+[2019.05.19-07.59.23:152][  0]SourceControl: Source control is disabled
+[2019.05.19-07.59.23:164][  0]SourceControl: Source control is disabled
+[2019.05.19-07.59.23:219][  0]SourceControl: Source control is disabled
+[2019.05.19-07.59.23:271][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.19-07.59.23:271][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.19-07.59.23:658][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-07.59.23:944][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-07.59.24:669][  0]LogEngine: Initializing Engine...
+[2019.05.19-07.59.24:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-07.59.24:671][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.19-07.59.24:860][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-07.59.24:882][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-07.59.24:906][  0]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-07.59.24:920][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-07.59.24:921][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-07.59.25:190][  0]LogDerivedDataCache: Saved boot cache 0.27s 71MB C:/Users/Gabriel/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.19-07.59.25:193][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-07.59.25:235][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-07.59.25:402][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-07.59.25:468][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-07.59.26:150][  0]LocalizationService: Localization service is disabled
+[2019.05.19-07.59.26:411][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.19-07.59.26:411][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.05.19-07.59.26:555][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Engine/CrossyRoad_TestEnv4.5/Content/' took 0.01s
+[2019.05.19-07.59.26:555][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-07.59.26:555][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-07.59.27:151][  0]SourceControl: Source control is disabled
+[2019.05.19-07.59.27:151][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-07.59.27:151][  0]LightingResults: New page: Lighting Build
+[2019.05.19-07.59.27:152][  0]MapCheck: New page: Map Check
+[2019.05.19-07.59.27:153][  0]LightingResults: New page: Lighting Build
+[2019.05.19-07.59.27:175][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.05.19-07.59.27:266][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.19-07.59.27:270][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-07.59.27:292][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.05.19-07.59.27:292][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-07.59.27:292][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.05.19-07.59.27:292][  0]LogFileHelpers: Loading map 'Template_Default' took 0.141
+[2019.05.19-07.59.27:379][  0]LogCollectionManager: Loaded 0 collections in 0.000687 seconds
+[2019.05.19-07.59.27:405][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Engine/CrossyRoad_TestEnv4.5/Saved/Collections/' took 0.01s
+[2019.05.19-07.59.27:405][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Engine/CrossyRoad_TestEnv4.5/Content/Developers/Gabriel/Collections/' took 0.00s
+[2019.05.19-07.59.27:405][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Engine/CrossyRoad_TestEnv4.5/Content/Collections/' took 0.01s
+[2019.05.19-07.59.27:405][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.19-07.59.27:411][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 2732 classes and 659 folders.
+[2019.05.19-07.59.27:415][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-07.59.27:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:569][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.19-07.59.27:685][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-07.59.27:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-07.59.27:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-07.59.27:720][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-07.59.27:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-07.59.27:745][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.19-07.59.27:757][  0]LogSlate: Took 0.004849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-07.59.27:764][  0]LogSlate: Took 0.003581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-07.59.27:768][  0]LogSlate: Took 0.003639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-07.59.27:843][  0]LogRenderer: Reallocating scene render targets to support 476x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-07.59.28:046][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.19-07.59.28:046][  0]LogLoad: (Engine Initialization) Total time: 19.13 seconds
+[2019.05.19-07.59.28:046][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-07.59.28:118][  0]LogAssetRegistry: Asset discovery search completed in 9.5892 seconds
+[2019.05.19-07.59.28:121][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.19-07.59.28:121][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.05.19-07.59.28:123][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.19-07.59.28:155][  0]LogSlate: Took 0.003936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-07.59.28:396][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal Engine/CrossyRoad_TestEnv4.5/Content/' took 0.32s
+[2019.05.19-07.59.29:400][  4]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-07.59.31:696][ 11]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.05.19-07.59.31:696][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-07.59.33:198][ 15]LogStaticMesh: Building static mesh Coin...
+[2019.05.19-07.59.33:215][ 15]LogStaticMesh: Built static mesh [0.02s] /Game/Static_Meshes/Coin.Coin
+[2019.05.19-07.59.33:218][ 15]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave smw_coin...
+[2019.05.19-07.59.33:231][ 15]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18482 while cooking SoundWave /Game/Sounds/smw_coin.smw_coin.
+[2019.05.19-07.59.33:529][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.19-07.59.33:531][ 15]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/FloorBlueprints/FloorCh_Railroad.FloorCh_Railroad
+[2019.05.19-07.59.33:738][ 15]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.05.19-07.59.34:407][ 15]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BPC_Chicken.BPC_Chicken
+[2019.05.19-07.59.34:699][ 15]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/UI.UI
+[2019.05.19-07.59.35:002][ 15]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Coin.Coin
+[2019.05.19-07.59.35:523][ 15]LogSlate: Took 0.004124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.19-07.59.35:634][ 16]LogSlate: Took 0.006682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.19-07.59.38:523][290]LogAIModule: Creating AISystem for world Crossy_Road
+[2019.05.19-07.59.38:528][290]LogAssetEditorManager: Opening Asset editor for World /Game/Crossy_Road.Crossy_Road
+[2019.05.19-07.59.38:585][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.05.19-07.59.38:586][290]Cmd: MAP LOAD FILE="../../../../../Unreal Engine/CrossyRoad_TestEnv4.5/Content/Crossy_Road.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-07.59.38:586][290]LightingResults: New page: Lighting Build
+[2019.05.19-07.59.38:587][290]LoadErrors: New page: Loading map: Crossy_Road.umap
+[2019.05.19-07.59.38:587][290]MapCheck: New page: Map Check
+[2019.05.19-07.59.38:587][290]LightingResults: New page: Lighting Build
+[2019.05.19-07.59.38:623][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.05.19-07.59.38:625][290]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-07.59.38:659][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.19-07.59.38:676][290]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-07.59.38:676][290]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2019.05.19-07.59.38:676][290]LogFileHelpers: Loading map 'Crossy_Road' took 0.091
+[2019.05.19-07.59.46:326][ 20]LogSlate: Window 'Coin' being destroyed
+[2019.05.19-08.06.11:352][660]LogRenderer: Reallocating scene render targets to support 1236x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-08.09.04:445][445]LogEditorViewport: Clicking Background
+[2019.05.19-08.09.05:328][551]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.19-08.09.05:356][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.09.05:356][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-08.09.05:357][551]PIE: New page: PIE session: Crossy_Road (May 18, 2019, 6:09:05 PM)
+[2019.05.19-08.09.05:369][551]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Crossy_Road
+[2019.05.19-08.09.05:371][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001304s)
+[2019.05.19-08.09.05:371][551]LogAIModule: Creating AISystem for world Crossy_Road
+[2019.05.19-08.09.05:371][551]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.05.19-08.09.05:371][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crossy_Road.Crossy_Road to /Game/UEDPIE_0_Crossy_Road.Crossy_Road (0.002574s)
+[2019.05.19-08.09.05:410][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.05.19-08.09.05:431][551]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-08.09.05:439][551]LogInit: FAudioDevice initialized.
+[2019.05.19-08.09.05:439][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.19-08.09.05:478][551]LogLoad: Game class is 'GameMode_CR_C'
+[2019.05.19-08.09.05:478][551]LogWorld: Bringing World /Game/UEDPIE_0_Crossy_Road.Crossy_Road up for play (max tick rate 0) at 2019.05.19-01.09.05
+[2019.05.19-08.09.05:478][551]LogWorld: Bringing up level for play took: 0.000358
+[2019.05.19-08.09.05:493][551]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.19-08.09.05:495][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2884.197 Y=-842.290 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:496][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2884.197 Y=-1425.471 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:497][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=1180.146 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.05:497][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=389.364 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:498][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=-1464.610 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:499][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=895.639 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.05:499][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=-1430.018 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:499][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=820.584 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:500][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=-1669.345 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:500][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=711.916 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:502][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1384.197 Y=-1544.732 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:503][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1384.197 Y=-266.304 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:503][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1384.197 Y=128.859 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:503][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1384.197 Y=-1473.417 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:505][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1134.197 Y=-1086.913 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:505][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1134.197 Y=456.533 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.05:505][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1134.197 Y=720.089 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:508][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=634.197 Y=1329.853 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:508][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=634.197 Y=-285.010 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:510][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=134.197 Y=1312.989 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:510][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=134.197 Y=1031.820 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:512][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-365.803 Y=240.981 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:512][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-365.803 Y=-720.899 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:513][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-365.803 Y=-1761.957 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.05:514][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-615.803 Y=1588.228 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:514][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-615.803 Y=-1776.231 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:515][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-615.803 Y=-1499.318 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:515][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-615.803 Y=1529.807 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:517][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1115.803 Y=-1856.007 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:517][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1115.803 Y=1831.351 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:518][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1115.803 Y=446.461 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.05:519][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1365.803 Y=-1812.090 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:519][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1365.803 Y=-322.538 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:519][551]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1365.803 Y=-1459.488 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.05:521][551]PIE: Play in editor start time for /Game/UEDPIE_0_Crossy_Road 0.256
+[2019.05.19-08.09.05:522][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.09.06:656][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1615.803 Y=-1314.786 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.06:657][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1615.803 Y=-854.262 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.06:657][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1615.803 Y=578.382 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.06:657][657]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1615.803 Y=-1316.340 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.08:385][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=-598.127 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.08:385][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=706.045 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.08:386][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=1176.807 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.08:386][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=-852.881 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.08:386][864]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=1088.917 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.08:752][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=289.789 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.08:753][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=1000.969 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.08:753][908]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=-1399.052 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.09:144][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=-1366.531 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.09:144][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=835.549 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.09:144][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=-1636.710 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.09:145][955]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=310.855 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.09:603][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4115.802 Y=1160.173 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.09:603][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4115.802 Y=-1740.258 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.09:603][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4115.802 Y=-552.081 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.09:603][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4115.802 Y=516.220 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.10:112][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=606.988 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.10:112][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=1603.135 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.10:112][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=-1494.656 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.10:113][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=-1615.644 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.10:113][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=-908.482 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:355][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5615.802 Y=261.241 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:355][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5615.802 Y=-1799.313 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.12:355][340]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5615.802 Y=1678.708 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.12:363][341]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5865.802 Y=-1320.370 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:363][341]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5865.802 Y=667.596 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.12:364][341]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5865.802 Y=476.506 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:773][390]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6115.802 Y=192.690 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:773][390]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6115.802 Y=1728.438 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:773][390]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6115.802 Y=-1915.580 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.12:773][390]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6115.802 Y=-1840.179 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.12:774][390]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6115.802 Y=1827.091 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.13:240][446]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=1331.752 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.13:240][446]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=1841.423 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.13:240][446]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=-1641.257 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.13:240][446]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=-1467.834 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.13:256][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=-977.725 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.13:256][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=599.333 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.13:257][448]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=-1380.230 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.14:191][560]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7365.802 Y=1171.224 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.14:192][560]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7365.802 Y=1123.797 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.14:192][560]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7365.802 Y=-1642.927 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.14:783][631]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7865.802 Y=-1424.090 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.14:783][631]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7865.802 Y=-1665.259 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.14:784][631]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7865.802 Y=1211.169 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.15:375][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=-1835.977 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.15:376][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=-604.632 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.15:376][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=1275.691 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.15:376][702]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=-724.123 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.16:117][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8615.802 Y=-1554.862 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.16:117][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8615.802 Y=-1596.765 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.16:118][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8615.802 Y=833.074 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.16:118][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8615.802 Y=351.261 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.17:284][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9115.802 Y=-747.837 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.17:284][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9115.802 Y=-1661.518 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.17:285][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9115.802 Y=1113.954 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.17:285][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9115.802 Y=1111.307 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.17:301][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-820.821 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.17:301][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-1727.653 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.17:302][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-1451.085 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.17:302][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=1233.386 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.17:884][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9865.802 Y=-164.923 Z=2.000] for [Lily_Pad_C]
+[2019.05.19-08.09.19:476][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=126.096 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.19:476][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=1270.971 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.19:476][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=-1895.090 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.19:477][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=1729.646 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.19:477][194]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=724.233 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.20:743][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11115.802 Y=1719.746 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.20:743][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11115.802 Y=-244.029 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.20:743][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11115.802 Y=-481.457 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.20:744][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11115.802 Y=783.459 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.21:143][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11615.802 Y=-344.410 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.21:144][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11615.802 Y=-244.950 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.21:145][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11865.802 Y=-1352.660 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.21:145][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11865.802 Y=-1676.541 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.21:146][394]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11865.802 Y=-163.505 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.22:318][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.09.22:318][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-08.09.22:353][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-08.09.22:353][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.09.22:405][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-08.09.22:433][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.05.19-08.09.22:444][536]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.19-08.09.40:680][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-08.09.57:309][321]LogEditorViewport: Clicking Background
+[2019.05.19-08.09.58:527][467]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.19-08.09.58:551][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.09.58:551][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-08.09.58:551][467]PIE: New page: PIE session: Crossy_Road (May 18, 2019, 6:09:58 PM)
+[2019.05.19-08.09.58:551][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Crossy_Road
+[2019.05.19-08.09.58:552][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001290s)
+[2019.05.19-08.09.58:553][467]LogAIModule: Creating AISystem for world Crossy_Road
+[2019.05.19-08.09.58:553][467]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.05.19-08.09.58:553][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crossy_Road.Crossy_Road to /Game/UEDPIE_0_Crossy_Road.Crossy_Road (0.001939s)
+[2019.05.19-08.09.58:604][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.05.19-08.09.58:624][467]LogInit: XAudio2 using 'Speakers (Logitech G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.19-08.09.58:633][467]LogInit: FAudioDevice initialized.
+[2019.05.19-08.09.58:633][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.19-08.09.58:664][467]LogLoad: Game class is 'GameMode_CR_C'
+[2019.05.19-08.09.58:664][467]LogWorld: Bringing World /Game/UEDPIE_0_Crossy_Road.Crossy_Road up for play (max tick rate 0) at 2019.05.19-01.09.58
+[2019.05.19-08.09.58:665][467]LogWorld: Bringing up level for play took: 0.000325
+[2019.05.19-08.09.58:678][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2884.197 Y=-1396.289 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.58:678][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2884.197 Y=289.444 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.58:680][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=-789.394 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:680][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=571.821 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:681][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2634.197 Y=-580.169 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.58:682][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=-1212.505 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:683][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2384.197 Y=1260.208 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.58:684][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2134.197 Y=1306.024 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.58:684][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2134.197 Y=1609.410 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.58:684][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2134.197 Y=-407.034 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:686][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1884.197 Y=1158.447 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:686][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1884.197 Y=607.104 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.58:687][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1884.197 Y=1327.205 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.09.58:692][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=384.197 Y=-1402.390 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.09.58:692][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=384.197 Y=629.896 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.58:692][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=384.197 Y=800.612 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.09.58:692][467]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=384.197 Y=1304.355 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.09.58:697][467]PIE: Play in editor start time for /Game/UEDPIE_0_Crossy_Road -0.569
+[2019.05.19-08.09.58:697][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.10.01:274][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1865.803 Y=661.438 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.10.01:275][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1865.803 Y=-1615.874 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.01:275][776]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1865.803 Y=965.572 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.01:799][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2115.803 Y=-931.448 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.01:799][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2115.803 Y=-275.916 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.01:800][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2115.803 Y=-380.096 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.01:815][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2365.803 Y=1316.845 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.01:816][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2365.803 Y=-120.739 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.01:816][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2365.803 Y=979.500 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.01:816][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2365.803 Y=761.415 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.03:716][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=194.589 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.03:717][ 69]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2615.803 Y=860.471 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.03:733][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2865.803 Y=-1358.358 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.03:733][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2865.803 Y=1415.325 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.03:733][ 71]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2865.803 Y=199.367 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.04:817][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=979.615 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.04:817][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=-1747.855 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.04:817][201]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3115.803 Y=1079.938 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.05:551][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=885.106 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.05:551][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=1650.218 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.05:551][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3615.803 Y=798.482 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.06:892][450]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4115.802 Y=-778.689 Z=2.000] for [Lily_Pad_C]
+[2019.05.19-08.10.08:284][617]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4615.802 Y=-476.392 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.08:284][617]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4615.802 Y=891.668 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.08:284][617]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4615.802 Y=-1829.588 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.10.08:301][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=1328.932 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.08:302][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=-1586.634 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.10.08:302][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4865.802 Y=-1220.736 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.09:496][762]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5365.802 Y=1774.369 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.09:496][762]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5365.802 Y=1485.891 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.09:496][762]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5365.802 Y=1181.124 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.17:081][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=-457.570 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.17:081][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=-422.862 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.17:082][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=-414.516 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.17:082][668]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6615.802 Y=407.667 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.17:098][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=758.595 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.17:098][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=-576.773 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.17:098][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=1323.406 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.17:098][670]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-6865.802 Y=1063.246 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.22:778][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7615.802 Y=-1939.352 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.22:779][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7615.802 Y=-1561.079 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.23:503][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=362.254 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.23:504][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=-1077.474 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.23:504][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=1698.335 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.23:504][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8115.802 Y=1305.333 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.23:520][440]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8365.802 Y=766.020 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.24:157][516]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8865.802 Y=1743.806 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:157][516]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8865.802 Y=972.248 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.24:515][559]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-1798.795 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.24:516][559]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-135.186 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:516][559]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9365.802 Y=-1663.763 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:916][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9615.802 Y=-229.178 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:916][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9615.802 Y=-1398.707 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:916][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9615.802 Y=139.219 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.24:932][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9865.802 Y=988.249 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.24:932][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9865.802 Y=857.939 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.24:932][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9865.802 Y=1677.960 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:274][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10115.802 Y=-359.375 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.25:275][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10115.802 Y=1521.461 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:865][721]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10615.802 Y=-167.821 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.25:865][721]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10615.802 Y=-1824.926 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:865][721]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10615.802 Y=1230.105 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:865][721]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10615.802 Y=1166.734 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:882][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=1312.470 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:882][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=1457.803 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.25:882][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=-1402.793 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.25:882][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=832.096 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.25:882][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-10865.802 Y=-1440.724 Z=1.000] for [BP_rock_C]
+[2019.05.19-08.10.30:558][284]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11365.802 Y=1788.010 Z=1.000] for [BP_treeM_C]
+[2019.05.19-08.10.30:558][284]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11365.802 Y=1648.663 Z=1.000] for [BP_treeT_C]
+[2019.05.19-08.10.30:558][284]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11365.802 Y=1030.323 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.30:559][284]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11365.802 Y=343.778 Z=1.000] for [BP_bushSM_C]
+[2019.05.19-08.10.35:260][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.10.35:260][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-08.10.35:288][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-08.10.35:289][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Crossy_Road.Crossy_Road:PersistentLevel' has LevelScriptBlueprint '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road' with GeneratedClass '/Game/Crossy_Road.Crossy_Road_C' with ClassGeneratedBy '/Game/Crossy_Road.Crossy_Road:PersistentLevel.Crossy_Road'
+[2019.05.19-08.10.35:332][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-08.10.35:337][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.05.19-08.10.35:365][851]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.19-08.11.29:578][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-08.11.29:682][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.05.19-08.11.29:809][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.19-08.11.29:894][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.19-08.11.29:947][ 94]LogSlate: Window 'CrossyRoad_TestEnv - Unreal Editor' being destroyed
+[2019.05.19-08.11.30:100][ 95]Cmd: QUIT_EDITOR
+[2019.05.19-08.11.30:692][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.19-08.11.30:703][ 95]LogExit: Preparing to exit.
+[2019.05.19-08.11.31:293][ 95]LogExit: Editor shut down
+[2019.05.19-08.11.31:293][ 95]LogExit: Transaction tracking system shut down
+[2019.05.19-08.11.31:582][ 95]LogExit: Object subsystem successfully closed.
+[2019.05.19-08.11.31:601][ 95]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.19-08.11.31:606][ 95]LogD3D11RHI: Shutdown
+[2019.05.19-08.11.31:606][ 95]LogD3D11RHI: CleanupD3DDevice
+[2019.05.19-08.11.31:606][ 95]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.19-08.11.31:606][ 95]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.19-08.11.31:607][ 95]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.19-08.11.31:607][ 95]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.19-08.11.31:607][ 95]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.19-08.11.31:607][ 95]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.19-08.11.31:683][ 95]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (654)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module Voice (652)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module SequencerWidgets (650)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module MeshBuilder (646)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.05.19-08.11.31:696][ 95]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.05.19-08.11.31:697][ 95]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.05.19-08.11.31:698][ 95]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.05.19-08.11.32:708][ 95]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.05.19-08.11.32:709][ 95]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.05.19-08.11.32:753][ 95]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.05.19-08.11.32:756][ 95]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.05.19-08.11.32:757][ 95]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.05.19-08.11.32:759][ 95]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.05.19-08.11.32:905][ 95]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.19-08.11.32:906][ 95]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.19-08.11.33:007][ 95]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.05.19-08.11.33:108][ 95]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.05.19-08.11.33:108][ 95]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.05.19-08.11.33:109][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.05.19-08.11.33:110][ 95]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.05.19-08.11.33:111][ 95]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.05.19-08.11.33:112][ 95]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.05.19-08.11.33:112][ 95]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.05.19-08.11.33:112][ 95]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.05.19-08.11.33:112][ 95]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.05.19-08.11.33:182][ 95]LogDerivedDataCache: Shutdown
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.05.19-08.11.33:182][ 95]LogXGEController: Cleaning working directory: C:/Users/Gabriel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.05.19-08.11.33:182][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.05.19-08.11.33:183][ 95]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.05.19-08.11.33:184][ 95]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.05.19-08.11.33:184][ 95]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.05.19-08.11.33:184][ 95]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.05.19-08.11.33:184][ 95]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.05.19-08.11.33:188][ 95]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.05.19-08.11.33:189][ 95]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.05.19-08.11.33:189][ 95]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.05.19-08.11.33:214][ 95]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.05.19-08.11.33:214][ 95]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.19-08.11.33:214][ 95]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B01CDBEE4-4A6E-AF4C-9A24-CFB5B15DEC0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.0-5660361%2B%2B%2BUE4%2BRelease-4.22&UserID=f3c5745b44e645785aaa3ca36787c08c%7C8e573efcd224473ab2df8866c0574d10%7Ce53a0549-16bf-400b-8bd9-6bf1ce848e44&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.19-08.11.33:247][ 95]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.05.19-08.11.33:248][ 95]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.05.19-08.11.33:250][ 95]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.05.19-08.11.33:256][ 95]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.05.19-08.11.33:257][ 95]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.05.19-08.11.33:260][ 95]LogExit: Exiting.
+[2019.05.19-08.11.33:274][ 95]Log file closed, 05/19/19 01:11:33
